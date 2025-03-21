@@ -1,4 +1,4 @@
-** Approach to Solve
+**Approach to Solve
 
 1. leftSum = 0 and rightSum = sum of all elements
 2. then traverse in array using for loop 0 -> n
