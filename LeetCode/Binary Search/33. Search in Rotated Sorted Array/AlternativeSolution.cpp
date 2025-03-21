@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// APPROACH - 1
+// APPROACH - II
 
 /*
 int search(int arr[],int n,int target){
@@ -54,7 +54,7 @@ int main(){
 
 */
 
-// APPROACH - 2
+// APPROACH - III
 #include <vector>
 #include <algorithm>
 
