@@ -12,6 +12,16 @@
 
 5. Sqrt(x) (Q-69) [Question](https://leetcode.com/problems/sqrtx/description/) [Solution](https://github.com/rishi10rana/Rishi_DSA/tree/main/LeetCode%20Problem's/Binary%20Search/69.%20Sqrt(x))  
 
+6. Merge Sorted Array (Q-88) [Question](https://leetcode.com/problems/merge-sorted-array/) [Solution]()  
+
+7. Move Zeroes (Q-283) [Question](https://leetcode.com/problems/move-zeroes/) []()  
+
+8. Rotate Array (Q-189) [Question](https://leetcode.com/problems/rotate-array/description/) []()  
+
+9. Check if Array Is Sorted and Rotated (Q-1752) [Question](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) [Solution]()
+
+10. Reverse String [Question](https://leetcode.com/problems/reverse-string/)
+
 ## Popular Problem's
 
 1. Allocate Books [Question](https://www.naukri.com/code360/problems/allocate-books_1089560?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&count=25&search=Allocate&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM&customSource=studio_nav&page=1&attempt_status=NOT_ATTEMPTED)  [Solution](https://github.com/rishi10rana/Rishi_DSA/tree/main/Popular%20Problem's/Binary%20Search/Allocate%20Books)  
@@ -27,3 +37,5 @@
 6. Insertion Sort [Question](https://www.naukri.com/code360/problems/insertion-sort_3155179?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM) [Solution](https://github.com/rishi10rana/Rishi_DSA/tree/main/Popular%20Problem's/Insertion%20Sort)  
 
 7. Reverse The Array [Question](https://www.naukri.com/code360/problems/reverse-the-array_1262298?utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio3&leftPanelTabValue=PROBLEM) [Solution]()  
+
+8. Sum Of Two Arrays [Question](https://www.naukri.com/code360/problems/sum-of-two-arrays_893186?utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_4&leftPanelTabValue=PROBLEM) [Solution]()
